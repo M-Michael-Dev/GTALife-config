@@ -54,13 +54,13 @@ item_list = {
 	["Linge propre"] = {p = 1, co = true},
 
 	["Acier brut"] = {},
-	["Acier"] = {p = 6},
-	["Saumon frais"] = {p = 7},
+	["Acier"] = {p = 12},
+	["Saumon frais"] = {p = 15},
 	["Saumon cru"] = {},
 	["Blé"] = {},
 	["Pain"] = {p = 12, f = "eat", v = 30, co = true},
 	["Uranium brut"] = {},
-	["Uranium"] = {p = 9},
+	["Uranium"] = {p = 18},
 	["Raisin"] = {},
 	["Vin"] = {p = 6, f = "dri", v = 10},
 
